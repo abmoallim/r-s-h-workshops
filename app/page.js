@@ -6,11 +6,11 @@ export default function Home() {
     <div className="min-h-screen bg-[#FFFDD0] flex items-center justify-center">
       <Card className="w-[350px]">
         <CardHeader>
-          <CardTitle>Card Title</CardTitle>
-          <CardDescription>Card Description</CardDescription>
+          <CardTitle>Day 1</CardTitle>
+          <CardDescription>Rebuilding Somalia Hackathon</CardDescription>
         </CardHeader>
         <CardContent>
-          <p>Card Content</p>
+          <p>Kickoff and team formation for the 3-day hackathon focused on innovative solutions for Somalia&apos;s reconstruction.</p>
         </CardContent>
         <CardFooter>
           <Button variant="outline">Click me</Button>
