@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from "@/components/ui/card";
+import Link from 'next/link';
 
 export default function Home() {
   return (
@@ -13,7 +14,9 @@ export default function Home() {
           <p>Kickoff and team formation for the 3-day hackathon focused on innovative solutions for Somalia&apos;s reconstruction.</p>
         </CardContent>
         <CardFooter>
-          <Button variant="outline">Click me</Button>
+          <Link href="https://highfalutin-abrosaurus-b49.notion.site/Rebuilding-Somalia-Hackathon-110dc209fc4280e99b4ce036b818e699?pvs=74" target="_blank" rel="noopener noreferrer">
+            <Button variant="outline">Show Details</Button>
+          </Link>
         </CardFooter>
       </Card>
     </div>
