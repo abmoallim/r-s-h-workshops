@@ -33,7 +33,7 @@ To use this repository for your hackathon project, follow these steps:
      pnpm install
      ```
 
-Now you're ready to start working on your project!
+Now you're ready to start working on your project.
 
 
 ## Learn More
