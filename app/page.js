@@ -11,7 +11,7 @@ export default function Home() {
           <CardDescription>Rebuilding Somalia Hackathon</CardDescription>
         </CardHeader>
         <CardContent>
-          <p>Kickoff and team formation for the 3-day hackathon focused on innovative solutions for Somalia&apos;s reconstruction.</p>
+          <p>Kickoff and team formation for the 30-day hackathon focused on innovative solutions for Somalia&apos;s reconstruction.</p>
         </CardContent>
         <CardFooter>
           <Link href="https://highfalutin-abrosaurus-b49.notion.site/Rebuilding-Somalia-Hackathon-110dc209fc4280e99b4ce036b818e699?pvs=74" target="_blank" rel="noopener noreferrer">
