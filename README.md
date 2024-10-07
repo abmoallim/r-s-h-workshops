@@ -15,8 +15,9 @@ To use this repository for your hackathon project, follow these steps:
    - Navigate to the directory where you want to store your project.
    - Run the following command, replacing `<your-username>` with your GitHub username:
      ```bash
-     git clone https://github.com/<your-username>/repo-name.git
+     git clone https://github.com/<your-username>/r-s-h-workshops
      ```
+
    - Change into the project directory:
      ```bash
      cd repo-name
