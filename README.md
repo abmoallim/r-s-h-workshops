@@ -1,24 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hackathon Demo Tools and Code
 
-## Getting Started
+This repository is used to demonstrate various tools and code for hackathon participants. It contains a Next.js project that you can use as a starting point or reference for your hackathon project.
 
-First, run the development server:
+## Getting Started for Hackathon Participants
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+To use this repository for your hackathon project, follow these steps:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. **Fork the repository**: 
+   - Click the "Fork" button at the top right of this GitHub page.
+   - This will create a copy of the repository in your GitHub account.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+2. **Clone your forked repository**:
+   - Open your terminal or command prompt.
+   - Navigate to the directory where you want to store your project.
+   - Run the following command, replacing `<your-username>` with your GitHub username:
+     ```bash
+     git clone https://github.com/<your-username>/repo-name.git
+     ```
+   - Change into the project directory:
+     ```bash
+     cd repo-name
+     ```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+3. **Install dependencies**:
+   - Run one of the following commands:
+     ```bash
+     npm install
+     # or
+     yarn install
+     # or
+     pnpm install
+     ```
+
+Now you're ready to start working on your project!
+
 
 ## Learn More
 
